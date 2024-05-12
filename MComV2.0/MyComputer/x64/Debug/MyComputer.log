@@ -1,0 +1,7 @@
+﻿  MyComputer.cpp
+E:\MyComputer02\MyComputer\MyComputer.cpp(17,30): warning C4083: 应输入“newline”；找到标识符“；”
+E:\MyComputer02\MyComputer\MyComputer.cpp(518,28): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\MyComputer02\MyComputer\MyComputer.cpp(555,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\MyComputer02\MyComputer\MyComputer.cpp(640,4): warning C4102: “defalut”: 未引用的标签
+E:\MyComputer02\MyComputer\MyComputer.cpp(771,27): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  MyComputer.vcxproj -> E:\MyComputer02\x64\Debug\MyComputer.exe
