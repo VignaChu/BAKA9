@@ -1,0 +1,3 @@
+﻿  MyComputer.cpp
+E:\MyComputer\MyComputer\MyComputer.cpp(13,30): warning C4083: 应输入“newline”；找到标识符“；”
+  MyComputer.vcxproj -> E:\MyComputer\x64\Debug\MyComputer.exe
